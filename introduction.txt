@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+Hi, I'm Eion. I'm learning Git and GitHub as part of a course. I enjoy solving problems and building simple projects.
+
+I created this repository to practice creating files, making commits, and using basic GitHub features.
